@@ -1,0 +1,44 @@
+/* 
+*
+{
+    background-color: #b6eb0a;
+    font-size: 10px;
+}
+*/
+/*
+h1
+{
+    color: #00ff51b9;
+}*/
+/* class selector*/
+.one
+{
+    color: rgb(59, 14, 148);
+    font-size: 30px;
+}
+/*id selector*/
+#two
+{
+    background-color: aqua;
+    color: chartreuse;
+}
+/*Group selector*/
+#two, ol
+{
+    font-size: 36px;
+    background-color: black;
+}
+/*
+p
+{
+    color: purple;
+}
+*/
+/* */
+.Border
+{
+    border: 10px solid red;
+    font-size: 25px;
+    margin: 100px;
+    padding: 100px;
+}
